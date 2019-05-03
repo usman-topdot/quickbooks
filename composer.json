@@ -7,5 +7,16 @@
             "name": "Ire Satamh",
             "email": "irelenecosicol@gmail.com"
         }
-    ]
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iresci23\\laravel-qbd\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "iresci23\\laravel-qbd\\": "packages/iresci23/laravel-qbd/src"
+        }
+    },
 }
