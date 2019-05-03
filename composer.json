@@ -18,5 +18,5 @@
         "psr-4": {
             "iresci23\\laravel-qbd\\": "packages/iresci23/laravel-qbd/src"
         }
-    },
+    }
 }
